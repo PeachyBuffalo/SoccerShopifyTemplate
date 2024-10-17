@@ -15,21 +15,21 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "OTP",
             "heading_size": "h0"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Your destination for top soccer gear",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop all",
+            "button_label_1": "Shop",
             "button_link_1": "shopify://collections/all",
             "button_style_secondary_1": true,
             "button_label_2": "",
@@ -43,15 +43,18 @@
         "text",
         "button"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "image": "shopify://shop_images/DALL_E_2024-10-17_10.14.18_-_A_simple_sleek_banner_image_for_a_soccer_e-commerce_store._It_should_feature_a_minimalist_design_with_clean_lines_soft_gradients_and_a_focus_on_a_s.webp",
-        "image_overlay_opacity": 40,
-        "image_height": "large",
+        "image_overlay_opacity": 50,
+        "image_height": "medium",
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "scheme-3",
-        "image_behavior": "none",
+        "image_behavior": "ambient",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
@@ -63,14 +66,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "Why OTP?",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+            "text": "<p>OTP is committed to providing high-quality soccer gear for players at every level. Shop now to discover top-notch products that will elevate your game.</p>"
           }
         }
       },
@@ -83,14 +86,14 @@
         "content_alignment": "center",
         "color_scheme": "scheme-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
+        "padding_top": 20,
+        "padding_bottom": 8
       }
     },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
+        "title": "New Arrivals",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
